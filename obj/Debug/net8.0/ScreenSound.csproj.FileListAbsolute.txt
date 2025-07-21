@@ -74,3 +74,6 @@ C:\Users\conta\source\repos\Projeto_ASPNET\ScreenSound\bin\Debug\net8.0\Microsof
 C:\Users\conta\source\repos\Projeto_ASPNET\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\conta\source\repos\Projeto_ASPNET\ScreenSound\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\conta\source\repos\Projeto_ASPNET\ScreenSound\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\conta\source\repos\Projeto_ASPNET\ScreenSound\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\conta\source\repos\Projeto_ASPNET\ScreenSound\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\conta\source\repos\Projeto_ASPNET\ScreenSound\obj\Debug\net8.0\ScreenSound.sourcelink.json

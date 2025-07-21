@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|c:\\users\\conta\\source\\repos\\projeto_aspnet\\screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|solutionrelative:modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|c:\\users\\conta\\source\\repos\\projeto_aspnet\\screensound\\menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|solutionrelative:menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|c:\\users\\conta\\source\\repos\\projeto_aspnet\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|solutionrelative:menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|c:\\users\\conta\\source\\repos\\projeto_aspnet\\screensound\\menus\\menuregistrarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|solutionrelative:menus\\menuregistrarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|c:\\users\\conta\\source\\repos\\projeto_aspnet\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|solutionrelative:modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|c:\\users\\conta\\source\\repos\\projeto_aspnet\\screensound\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|solutionrelative:banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|c:\\users\\conta\\source\\repos\\projeto_aspnet\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2772B1-DCEC-4839-BEAD-712B1462730B}|ScreenSound.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuMostrarMusicas.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuMostrarMusicas.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "RelativeToolTip": "Menus\\MenuMostrarMusicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:08:09.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuRegistrarMusica.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuRegistrarMusica.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Menus\\MenuRegistrarMusica.cs*",
+              "RelativeToolTip": "Menus\\MenuRegistrarMusica.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:05:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuRegistrarArtista.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuRegistrarArtista.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
+              "RelativeToolTip": "Menus\\MenuRegistrarArtista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:04:59.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Modelos\\Artista.cs",
+              "RelativeDocumentMoniker": "Modelos\\Artista.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Modelos\\Artista.cs*",
+              "RelativeToolTip": "Modelos\\Artista.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:04:30.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeToolTip": "Modelos\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:03:54.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScreenSoundContext.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Banco\\ScreenSoundContext.cs",
+              "RelativeDocumentMoniker": "Banco\\ScreenSoundContext.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Banco\\ScreenSoundContext.cs",
+              "RelativeToolTip": "Banco\\ScreenSoundContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:03:34.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\conta\\source\\repos\\Projeto_ASPNET\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:02:53.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
